@@ -1,0 +1,370 @@
+<mxfile host="Electron" modified="2023-12-01T04:03:52.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="hrsjdcc03ZwMMwVL6kUq" version="22.1.2" type="device">
+  <diagram name="Page-1" id="Wu3HSqUtHEDuafeBJ0FG">
+    <mxGraphModel dx="2074" dy="2004" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="st--YeIOMh86BG9WnPkF-1" value="CSS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="129" y="-551" width="268" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-2" value="theme cookiecutter test" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-1">
+          <mxGeometry y="30" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-3" value="extension server version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-1">
+          <mxGeometry y="60" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-4" value="add release workflow" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-1">
+          <mxGeometry y="90" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-10" value="python fix version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-1">
+          <mxGeometry y="120" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-11" value="update jupyterlab branch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-1">
+          <mxGeometry y="150" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-14" value="JavaScript" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="117" y="239" width="277" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-15" value="&lt;table style=&quot;border-color: var(--border-color); width: 223pt;&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;297&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color); height: 15pt;&quot; height=&quot;20&quot;&gt;&lt;td style=&quot;border-color: var(--border-color); height: 15pt;&quot; height=&quot;20&quot;&gt;bump codemodsfrontend factoryboy&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color); height: 15pt;&quot; height=&quot;20&quot;&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-14">
+          <mxGeometry y="30" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-16" value="bump cookiecutterprojectslugfrontend add" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-14">
+          <mxGeometry y="60" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-17" value="update dependency sphinx" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-14">
+          <mxGeometry y="90" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-18" value="update faker dependency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-14">
+          <mxGeometry y="120" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-19" value="update dependency testinglibraryuserevent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-14">
+          <mxGeometry y="150" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-20" value="Dockerfile" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-157" width="278" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-21" value="feat add docs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-20">
+          <mxGeometry y="30" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-22" value="feat add precommit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-20">
+          <mxGeometry y="60" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-23" value="feat improve mount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-20">
+          <mxGeometry y="90" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-25" value="fix feat improve" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-20">
+          <mxGeometry y="120" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-26" value="use python version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-20">
+          <mxGeometry y="150" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-27" value="Makefile" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="799" y="36" width="267" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-28" value="requirementstxt remove version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-27">
+          <mxGeometry y="30" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-29" value="add target run" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-27">
+          <mxGeometry y="60" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-30" value="github fix actions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-27">
+          <mxGeometry y="90" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-32" value="add description update" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-27">
+          <mxGeometry y="120" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-33" value="template package python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-27">
+          <mxGeometry y="150" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-34" value="Go" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="797" y="234" width="266" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-35" value="documentation templates creating" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-34">
+          <mxGeometry y="30" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-36" value="template command circleci" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-34">
+          <mxGeometry y="60" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-37" value="import example project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-34">
+          <mxGeometry y="90" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-39" value="bump add monorepogincookiecutterreponame" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-34">
+          <mxGeometry y="120" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-40" value="readme add template" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-34">
+          <mxGeometry y="150" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-41" value="Rust" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="788" y="-348" width="278" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-42" value="request specifying custom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-41">
+          <mxGeometry y="30" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-43" value="contents dependencies update" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-41">
+          <mxGeometry y="60" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-44" value="project compile time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-41">
+          <mxGeometry y="90" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-46" value="bump git time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-41">
+          <mxGeometry y="120" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-47" value="project compile time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-41">
+          <mxGeometry y="150" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-48" value="Java" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="794" y="-553" width="279" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-49" value="generate inject binding" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-48">
+          <mxGeometry y="30" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-50" value="variable custom add" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-48">
+          <mxGeometry y="60" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-51" value="working empty directories" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-48">
+          <mxGeometry y="90" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-53" value="backslash new lines" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-48">
+          <mxGeometry y="120" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-54" value="gradle annotations add" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-48">
+          <mxGeometry y="150" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-55" value="Shell" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="118.5" y="36" width="277" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-56" value="travisci github workflows" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-55">
+          <mxGeometry y="30" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-57" value="run tests setup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-55">
+          <mxGeometry y="60" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-58" value="mac support add" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-55">
+          <mxGeometry y="90" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-60" value="variables errors produce" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-55">
+          <mxGeometry y="120" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-61" value="wrapping templates quotes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-55">
+          <mxGeometry y="150" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-63" value="Python" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="125" y="-358" width="268" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-64" value="bump cookiecutter arrowup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-63">
+          <mxGeometry y="30" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-65" value="update dependabot cookiecutter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-63">
+          <mxGeometry y="60" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-66" value="bump frontend sphinx" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-63">
+          <mxGeometry y="90" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-70" value="update pytest dependency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-63">
+          <mxGeometry y="120" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-71" value="add fix docs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-63">
+          <mxGeometry y="150" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-73" value="TypeScript" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="117" y="-165" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-74" value="lugfrontend bump typesnode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-73">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-75" value="bump update actionssetuppython" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-73">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-76" value="error fix use" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-73">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-77" value="bump lugbackend fastapi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-73">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-78" value="bump lugbackend sqlalchemy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-73">
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-82" value="CSS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="434" y="-551" width="268" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-83" value="testing the functionality, styling, or appearance of themes in css" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-82">
+          <mxGeometry y="30" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-84" value="server versions and extensions within the CSS context" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-82">
+          <mxGeometry y="60" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-85" value="enhancing the release workflow in a CSS project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-82">
+          <mxGeometry y="90" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-86" value="addressing a specific version-related problem in a Python context" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-82">
+          <mxGeometry y="120" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-87" value="need to update a branch related to JupyterLab within the CSS project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-82">
+          <mxGeometry y="150" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-88" value="Python" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="432" y="-357" width="268" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-89" value="making adjustments to ensure compatibility with a newer version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-88">
+          <mxGeometry y="30" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-90" value="updating the configuration or settings related to Dependabot" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-88">
+          <mxGeometry y="60" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-91" value="updating documentation or ensuring compatibility with a newer Sphinx version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-88">
+          <mxGeometry y="90" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-92" value="ensuring compatibility with a newer version of pytest" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-88">
+          <mxGeometry y="120" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-93" value="fix documentation in the project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-88">
+          <mxGeometry y="150" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-94" value="TypeScript" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="434.5" y="-164" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-95" value="needs to update the version of bump typesnode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-94">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-96" value="leverage new features or ensure compatibility with a newer version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-94">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-97" value=" need to fix an error related to the usage of TypeScript" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-94">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-98" value="update to ensure compatibility with a newer version of FastAPI" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-94">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-99" value="need to ensure compatibility with a newer version of the SQLAlchemy library" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-94">
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-101" value="Shell" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="434" y="34" width="277" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-102" value=" managing TravisContinuous Integration workflows specifically for GitHub&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; white-space-collapse: preserve;&quot;&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-101">
+          <mxGeometry y="30" width="277" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-103" value="need to set up or the configuration for running tests in the project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-101">
+          <mxGeometry y="67" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-104" value="the need to add support for macOS (Mac) in the project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-101">
+          <mxGeometry y="97" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-105" value="the use of variables in the Shell script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-101">
+          <mxGeometry y="127" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-106" value="adding quotes around templates in Shell scripting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-101">
+          <mxGeometry y="157" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-107" value="JavaScript" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="433" y="239" width="277" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-108" value="to ensure compatibility with a newer version of Factoryboy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-107">
+          <mxGeometry y="30" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-109" value="the update of additional features or improvements of slogfrontend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-107">
+          <mxGeometry y="60" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-110" value=" updating a dependency related to Sphinx" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-107">
+          <mxGeometry y="90" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-111" value="updating the dependency related to Faker" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-107">
+          <mxGeometry y="120" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-112" value="need to update the dependency related to &quot;testinglibraryuserevent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-107">
+          <mxGeometry y="150" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-113" value="Java" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="-555" width="279" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-114" value="creating bindings that are likely used for dependency injection in a Java project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-113">
+          <mxGeometry y="30" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-115" value="the addition of custom variables in a Java project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-113">
+          <mxGeometry y="60" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-116" value=" working with empty directories in a Java project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-113">
+          <mxGeometry y="90" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-117" value="handling backslashes and new lines in a Java project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-113">
+          <mxGeometry y="120" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-118" value="addition of annotations in a Java project that uses the Gradle build system" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-113">
+          <mxGeometry y="150" width="279" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-119" value="Rust" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="-348" width="278" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-120" value=" need to specify something custom in a Rust project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-119">
+          <mxGeometry y="30" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-121" value="updating the contents of dependencies in a Rust project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-119">
+          <mxGeometry y="60" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-122" value="there might be specific concerns or tasks related to the compilation time of the Rust project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-119">
+          <mxGeometry y="90" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-123" value="updating&amp;nbsp;the version of something related to &quot;git time&quot; in a Rust project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-119">
+          <mxGeometry y="120" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-124" value="there might be specific concerns or tasks related to the compilation time of the Rust project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-119">
+          <mxGeometry y="150" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-125" value="Dockerfile" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-159" width="278" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-126" value="adding documentation as a new feature (&quot;feat&quot;) in the Dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-125">
+          <mxGeometry y="30" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-127" value="addition of precommit hooks as a new feature in the Dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-125">
+          <mxGeometry y="60" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-128" value="improving or enhancing the mounting functionality in the Dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-125">
+          <mxGeometry y="90" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-129" value=" fix related to a previous improvement or enhancement feature in the Dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-125">
+          <mxGeometry y="120" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-130" value="ensuring that the Docker image is compatible with a particular version of Python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-125">
+          <mxGeometry y="150" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-131" value="Makefile" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="33" width="267" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-132" value="modifying a version specification within the requirements.txt file" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-131">
+          <mxGeometry y="30" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-133" value="adding a new target named &quot;run&quot; in the Makefile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-131">
+          <mxGeometry y="60" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-134" value="address errors or improvements in the GitHub Actions workflow associated with the Makefile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-131">
+          <mxGeometry y="90" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-135" value="enhancing or adding descriptions for clarity in Makefile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-131">
+          <mxGeometry y="120" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-136" value="defining a structure, creating directories, and setting up initial files needed for a Python package within the project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-131">
+          <mxGeometry y="150" width="267" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-137" value="Go" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="229" width="266" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-138" value="creation of documentation templates in a Go project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-137">
+          <mxGeometry y="30" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-139" value="define how CircleCI should handle the Go project&#39;s build, test, and deployment processes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-137">
+          <mxGeometry y="60" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-140" value="importing an example project into the Go project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-137">
+          <mxGeometry y="90" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-141" value="updating dependencies or configurations related to monorepogincookiecutterreponame" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-137">
+          <mxGeometry y="120" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st--YeIOMh86BG9WnPkF-142" value="adding a template or modifying the README file in the Go project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="st--YeIOMh86BG9WnPkF-137">
+          <mxGeometry y="150" width="266" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
